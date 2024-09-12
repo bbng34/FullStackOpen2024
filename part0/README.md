@@ -112,5 +112,5 @@ Create a diagram depicting the situation where the user creates a new note using
     Note right of browser: The browser stays on the same page, and no further HTTP requests are made thanks to single-page architecture
     
     
-##Fundamentals of Web apps Part 0](https://fullstackopen.com/en/part0/fundamentals_of_web_apps).
+##[Fundamentals of Web apps Part 0](https://fullstackopen.com/en/part0/fundamentals_of_web_apps).
 
